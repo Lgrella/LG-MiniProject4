@@ -21,3 +21,5 @@ Create github actions that tests >= 3 versions of python
 7. Github actions that perform the four makefile functions
 
 --
+
+test
