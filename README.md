@@ -20,8 +20,4 @@ Create github actions that tests >= 3 versions of python
 4. Makefile that runs all tests, formats with python black, lints with Ruff, and installs libraries
 5. Two test scripts: test_script.py
 6. Requirements.txt that lists the the packages for use
-7. Github actions that perform the four makefile functions
-
---
-
-test
+7. Github action that perform the four makefile functions and matrix testing different python 
