@@ -1,4 +1,4 @@
-name: CI in python 3.9, 3.10, 3.11
+name: Python Versions Matrix Testing
 on:
   push:
     branches: [ "main" ]
