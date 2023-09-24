@@ -8,7 +8,8 @@ Create github actions that tests >= 3 versions of python
 ---
 ## Github Actions: Matrix Testing!
 
-[![CI in python 3.9, 3.10, 3.11](https://github.com/Lgrella/LG-MiniProject4/actions/workflows/ci.yml/badge.svg)](https://github.com/Lgrella/LG-MiniProject4/actions/workflows/ci.yml)
+[![Matrix testing](https://github.com/Lgrella/LG-MiniProject4/actions/workflows/ci.yml/badge.svg)](https://github.com/Lgrella/LG-MiniProject4/actions/workflows/ci.yml)
+
 ---
 
 ## Individual Project 1 Structure:
